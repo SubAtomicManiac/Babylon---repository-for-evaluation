@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Babylon</string>
+    <string name="post_text">An example post</string>
+    <string name="tv_body">This is the body</string>
+    <string name="tv_name">Author name</string>
+    <string name="tv_comments">8 comments</string>
+    <string name="tv_title">Title</string>
+    <string name="comments">Number of comments: %1$s </string>
+</resources>
